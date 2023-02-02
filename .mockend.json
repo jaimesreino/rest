@@ -1,7 +1,10 @@
-{"prtg": {
-    "result": {
-        "channel": "name",
-        "value": "1"
-    }
-   }
-} 
+{
+    "prtg": {
+        "result": [
+            {
+                "channel": "name",
+                "value": "1"
+            }
+        ]
+     }
+}
