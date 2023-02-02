@@ -14,17 +14,6 @@
         "limitmode": "1",
         "limitmaxwarning": "50",
         "limitmaxerror": "60"
-      },
-      {
-        "channel": "Channel 3 (lookup)",
-        "value": "1",
-        "valuelookup": "prtg.standardlookups.exchangedag.yesno.stateyesok"
-      },
-      {
-        "channel": "Channel 4 (delta)",
-        "value": "123456",
-        "mode": "difference",
-        "unit": "bytesbandwidth"
       }
     ],
     "text": "The sensor's message"
