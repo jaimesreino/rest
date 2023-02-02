@@ -8,7 +8,7 @@
         'unit': 'custom',
         'customunit': 'celsius'
       }
-    ],
+    ]
     "text": "The sensor's message"
   }
 }
