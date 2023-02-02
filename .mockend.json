@@ -1,14 +1,32 @@
 {
   "prtg": {
-    "result" [
+    "result": [
       {
         "channel": "Channel 1 (float)",
         "value": "12.3456",
-        "float": 1,
+        "float": "1",
         "unit": "custom",
         "customunit": "celsius"
+      },
+      {
+        "channel": "Channel 2 (integer)",
+        "value": "42",
+        "limitmode": "1",
+        "limitmaxwarning": "50",
+        "limitmaxerror": "60"
+      },
+      {
+        "channel": "Channel 3 (lookup)",
+        "value": "1",
+        "valuelookup": "prtg.standardlookups.exchangedag.yesno.stateyesok"
+      },
+      {
+        "channel": "Channel 4 (delta)",
+        "value": "123456",
+        "mode": "difference",
+        "unit": "bytesbandwidth"
       }
-    ]
+    ],
     "text": "The sensor's message"
   }
 }
