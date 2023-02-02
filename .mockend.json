@@ -1,19 +1,12 @@
 {
-  "prtg": {
-    "result": [
+  'prtg': {
+    'result': [
       {
-        "channel": "Channel 1 (float)",
-        "value": "12.3456",
-        "float": "1",
-        "unit": "custom",
-        "customunit": "celsius"
-      },
-      {
-        "channel": "Channel 2 (integer)",
-        "value": "42",
-        "limitmode": "1",
-        "limitmaxwarning": "50",
-        "limitmaxerror": "60"
+        'channel': 'Channel 1 (float)',
+        'value': '12.3456',
+        'float': 1,
+        'unit': 'custom',
+        'customunit': 'celsius'
       }
     ],
     "text": "The sensor's message"
