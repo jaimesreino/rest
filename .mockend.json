@@ -1,12 +1,12 @@
 {
-  'prtg': {
-    'result': [
+  "prtg": {
+    "result" [
       {
-        'channel': 'Channel 1 (float)',
-        'value': '12.3456',
-        'float': 1,
-        'unit': 'custom',
-        'customunit': 'celsius'
+        "channel": "Channel 1 (float)",
+        "value": "12.3456",
+        "float": 1,
+        "unit": "custom",
+        "customunit": "celsius"
       }
     ]
     "text": "The sensor's message"
